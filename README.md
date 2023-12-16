@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/ordersummarycomponent-ytcbxWMqBG)
-- Live Site URL: [Live site](https://chuantiong.github.io/order-summary-componen)
+- Live Site URL: [Live site](https://chuantiong.github.io/order-summary-component/)
 
 ## Author
 

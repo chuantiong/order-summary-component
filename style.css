@@ -19,8 +19,10 @@ body {
     display: grid;
     place-items: center;
     height: 100vh;
+    background-color: #E0E8FF;
     background-image: url("./images/pattern-background-mobile.svg");
-    background-size: cover;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
 }
 
 /* General */
@@ -203,5 +205,11 @@ button {
 
     .proceed-to-payment-btn {
         margin-block: 2em;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .card__plan-wrapper {
+        padding: 1.56rem 1.5rem;
     }
 }
